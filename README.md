@@ -1,5 +1,5 @@
 # IndustryPage
-# Hosted File Link: 
+# Hosted File Link: https://divyanshrajpoot9.github.io/IndustryPage/
 
 ## HTML Tags Used:
 ### `<!DOCTYPE html>`
